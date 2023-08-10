@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nimro
+ *
+ */
+module nimrodBar {
+}
